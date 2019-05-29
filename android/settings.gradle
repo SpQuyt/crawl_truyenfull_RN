@@ -1,0 +1,3 @@
+rootProject.name = 'crawl_truyenfull_RN'
+
+include ':app'
